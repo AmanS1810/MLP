@@ -52,7 +52,3 @@ See [API_DOCUMENTATION.md](API_DOCUMENTATION.md) for detailed API usage and exam
 ## License
 
 MIT License
-
-## Author
-
-Saad Momin
